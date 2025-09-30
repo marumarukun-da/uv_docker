@@ -1,7 +1,5 @@
 {
     "recommendations": [
-        "github.copilot",
-        "github.copilot-chat",
         "ms-ceintl.vscode-language-pack-ja",
         "usernamehw.errorlens",
         "oderwat.indent-rainbow",
@@ -21,4 +19,3 @@
         "mutantdino.resourcemonitor"
     ]
 }
-
