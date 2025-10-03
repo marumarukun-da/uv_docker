@@ -16,6 +16,7 @@
         "mhutchie.git-graph",
         "ms-python.mypy-type-checker",
         "Gruntfuggly.todo-tree",
-        "mutantdino.resourcemonitor"
+        "mutantdino.resourcemonitor",
+        "bungcip.better-toml"
     ]
 }
