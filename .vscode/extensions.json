@@ -17,7 +17,7 @@
         "ms-python.mypy-type-checker",
         "Gruntfuggly.todo-tree",
         "mutantdino.resourcemonitor",
-        "bungcip.better-toml",
+        "tamasfe.even-better-toml",
         "openai.chatgpt"
     ]
 }
